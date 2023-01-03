@@ -1,0 +1,15 @@
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\bin\Debug\net6.0\second.exe
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\bin\Debug\net6.0\second.deps.json
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\bin\Debug\net6.0\second.runtimeconfig.json
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\bin\Debug\net6.0\second.dll
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\bin\Debug\net6.0\second.pdb
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.csproj.AssemblyReference.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.GeneratedMSBuildEditorConfig.editorconfig
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.AssemblyInfoInputs.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.AssemblyInfo.cs
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.csproj.CoreCompileInputs.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.dll
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\refint\second.dll
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.pdb
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\second.genruntimeconfig.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\second\obj\Debug\net6.0\ref\second.dll
