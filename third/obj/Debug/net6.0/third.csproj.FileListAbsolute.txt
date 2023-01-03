@@ -1,0 +1,15 @@
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\bin\Debug\net6.0\third.exe
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\bin\Debug\net6.0\third.deps.json
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\bin\Debug\net6.0\third.runtimeconfig.json
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\bin\Debug\net6.0\third.dll
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\bin\Debug\net6.0\third.pdb
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.csproj.AssemblyReference.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.GeneratedMSBuildEditorConfig.editorconfig
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.AssemblyInfoInputs.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.AssemblyInfo.cs
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.csproj.CoreCompileInputs.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.dll
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\refint\third.dll
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.pdb
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\third.genruntimeconfig.cache
+D:\New_folder\ДЗ\DZ_SEMINAR_C_1_1\third\obj\Debug\net6.0\ref\third.dll
